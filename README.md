@@ -21,8 +21,11 @@ Os materiais abordam os seguintes assuntos:
 
 ## Teste de Markdown
 
-> [!NOTE]  
+> [!NOTE]
 > Highlights information that users should take into account, even when skimming.
+
+> [!NOTE] MODIFICADA
+> Testando se aceita blocos de alerta customiados (como o Obsidian)
 
 > [!IMPORTANT]  
 > Crucial information necessary for users to succeed.
