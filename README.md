@@ -5,10 +5,10 @@ Aqui você encontrará materiais, exercícios e desafios para a disciplina de Al
 
 ## 📋 Sumário
 
-- [📖 Sobre](#📖-sobre)  
-- [🗂️ Conteúdo](#🗂️-conteúdo)  
-- [📁 Estrutura do Repositório](#📁-estrutura-do-repositório)
-- [🤝 Como contribuir](#🤝-como-contribuir)
+- [📖 Sobre](#-sobre)  
+- [🗂️ Conteúdo](#-conteúdo)  
+- [📁 Estrutura do Repositório](#-estrutura-do-repositório)
+- [🤝 Como contribuir](#-como-contribuir)
 
 ## 📖 Sobre
 
