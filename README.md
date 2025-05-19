@@ -35,20 +35,18 @@ O objetivo deste repositório é **complementar** as aulas de Algoritmos, oferec
 - [else](./materiais/primeira-unidade/2.%20Estruturas%20condicionais.md#else).
 
 **[🔄 Estruturas de repetição](./materiais/primeira-unidade/3.%20Estruturas%20de%20repetição.md)**
-- for;
-- while.
+- [for](./materiais/primeira-unidade/3.%20Estruturas%20de%20repetição.md#for);
+- [while](./materiais/primeira-unidade/3.%20Estruturas%20de%20repetição.md#while).
 
 **[📄 Manipulação de Arquivos](./materiais/primeira-unidade/4.%20Manipulação%20de%20arquivos.md)**  
-- Leitura (`'r'`)  
-- Escrita (`'w'`)
+- Leitura (`'r'`) e escrita (`'w'`)
 
-### Próximas Unidades
+### Próxima Unidade
 
 Em breve teremos materiais sobre:
 
-- 🛒 Listas;
-- 📦 Funções e módulos;
 - 🗃️ Estruturas de dados (listas, tuplas, dicionários);
+- 📦 Funções;
 - ...e mais!
 
 ## 📁 Estrutura do repositório
@@ -60,8 +58,9 @@ Em breve teremos materiais sobre:
 │       ├── 1. Operadores.md
 │       ├── 2. Estruturas condicionais.md
 │       └── 3. Estruturas de repetição.md
-├── exercícios
-│   └── desafios-extras.md
+│       └── 4. Manipulação de arquivos.md
+├── exercicios
+│   └── *desafios-extras.md
 ├── .gitignore
 └── README.md
 ```
