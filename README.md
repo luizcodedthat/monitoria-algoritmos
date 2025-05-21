@@ -41,13 +41,12 @@ O objetivo deste repositório é **complementar** as aulas de Algoritmos, oferec
 **[📄 Manipulação de Arquivos](./materiais/primeira-unidade/4.%20Manipulação%20de%20arquivos.md)**  
 - Leitura (`'r'`) e escrita (`'w'`)
 
-### Próxima Unidade
+### 2ª Unidade: Estruturas de dados simples
 
 Em breve teremos materiais sobre:
 
-- 🗃️ Estruturas de dados (listas, tuplas, dicionários);
-- 📦 Funções;
-- ...e mais!
+- 🗃️ Listas
+- 📦 Dicionários
 
 ## 📁 Estrutura do repositório
 
