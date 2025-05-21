@@ -52,15 +52,16 @@ Em breve teremos materiais sobre:
 
 ```bash
 .
-├── materiais
-│   └── primeira-unidade
-│       ├── 1. Operadores.md
-│       ├── 2. Estruturas condicionais.md
-│       └── 3. Estruturas de repetição.md
-│       └── 4. Manipulação de arquivos.md
-├── exercicios
-│   └── *desafios-extras.md
-├── .gitignore
+├── exercicios/
+│   └── Exercicios.md
+├── materiais/
+│   ├── primeira-unidade/
+│   │   ├── 1. Operadores.md
+│   │   ├── 2. Estruturas condicionais.md
+│   │   ├── 3. Estruturas de repetição.md
+│   │   └── 4. Manipulação de arquivos.md
+│   └── segunda-unidade/
+│       └── 1. Listas.md
 └── README.md
 ```
 
